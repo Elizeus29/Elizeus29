@@ -58,7 +58,5 @@ Here are some ideas to get you started:
 - Bootstrap 
 - WPF
 
-Quizas en mi canal de youtube puedas encontrar algo de ayuda! 
-[![Youtube](https://img.shields.io/badge/-Youtube-c14438?style=flat&logo=Youtube&logoColor=white)](https://www.youtube.com/channel/UCsJXN0QHJnsluFOsPKFAXGg)
 
 
